@@ -18,12 +18,12 @@ public class LoopsAndVersionControl1 {
         }
         System.out.println("Highest Value of this array is: " + maxValue);
 
-        System.out.printf("=============");
+        System.out.println("=============");
             /* int difference = maxValue-minValue;
             System.out.println("The difference between the minimum and maximum values: " +difference);*/
 
         System.out.println("\nThe difference between the minimum and maximum values: " + (maxValue - minValue));
-        System.out.printf("=============");
+        System.out.println("=============");
 
 
         //Task number 2
@@ -38,7 +38,7 @@ public class LoopsAndVersionControl1 {
             }
         }
         System.out.println(("\nThe lowest value is "+minValue)+(" and the second lowest value in this array is "+secondminValue));
-        System.out.printf("\n=============");
+        System.out.println("\n=============");
 
         //Task number 3
         // solve x²+(4y/5-x)²
