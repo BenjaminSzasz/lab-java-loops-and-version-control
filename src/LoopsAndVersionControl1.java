@@ -39,7 +39,6 @@ public class LoopsAndVersionControl1 {
         }
         System.out.println(("\nThe lowest value is "+minValue)+(" and the second lowest value in this array is "+secondminValue));
         System.out.println("\n=============");
-
         //Task number 3
         // solve x²+(4y/5-x)²
         double x = 6;
